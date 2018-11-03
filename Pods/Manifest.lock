@@ -1,0 +1,20 @@
+PODS:
+  - JWNetAutoCache (0.0.2)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - JWNetAutoCache
+  - Masonry
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JWNetAutoCache
+    - Masonry
+
+SPEC CHECKSUMS:
+  JWNetAutoCache: 434f10855da06d29a381359552ae9d27ef35cad7
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 0151ac9e0d1a59f85cfd03097d26706716b185eb
+
+COCOAPODS: 1.5.3
